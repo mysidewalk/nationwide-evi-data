@@ -1,6 +1,6 @@
 # Nationwide Economic Vulnerability Index Data
 
-The data, site, repository, and all other related materials here are made available only under the License at [LICENSE.md](LICENSE.md) and your continued use of any of the foregoing items signifies your acceptance of any changes to the agreement described in the License.
+The data, site, repository, and all other related materials here are made available only under the License at [LICENSE.md](LICENSE.md). Your continued use of any of the foregoing items signifies your acceptance of any changes to the agreement described in the License. The last date of any updates to data or License will always be stated at the bottom of this document.
 
 Two formats of the data are available:
 - A [geojson version](us-counties-evi.geojson)
