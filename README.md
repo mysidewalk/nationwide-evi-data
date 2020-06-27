@@ -8,4 +8,6 @@ Two formats of the data are available:
 
 A short dictionary describing the columns / attributes of these data files is available as a [text file](dictionary.txt).
 
+For inquiry about specific engagements with regard to Economic Vulnerability Index, [hello@mysidewalk.com](mailto:hello@mysidewalk.com).
+
 The data and License available at this site were last updated on June 26, 2020
